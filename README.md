@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UlugbekYarkinov
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Kotlin for a native android development
+- 🌱 I’m currently learning Flutter for a crossplatform development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yarkinovulugbek@gmail.com
 
