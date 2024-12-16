@@ -54,6 +54,7 @@ Feel free to reach out if you have any exciting opportunities or ideas!
 - **Email**: [yarkinovulugbek@gmail.com](mailto:yarkinovulugbek@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/ulugbek-yarkinov](https://www.linkedin.com/in/ulugbek-yarkinov)  
 - **GitHub**: [github.com/UlugbekYarkinov](https://www.github.com/UlugbekYarkinov)
+- **Instagram**: [instagram.com/yarkin.off](https://www.instagram.com/yarkin.off/)
 
 ---
 
